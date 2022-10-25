@@ -6,4 +6,4 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 - 🧪 Knowledge of **Javascript/Typescript, SQL(MySQL), NoSQL(Firebase), Linux and others**.
 - 📚 And why not become a **fullstack NodeJs / Angular developer** on a project with microservices. 👀
 - 💪🏼 Future goals : Learn more technologies : **NodeJS, Express, Sequelize, Docker, Nginx, MongoDB**,... 
-- Never stop creating new ideas, because I love solving problems through IT.
+- 💡 Never stop creating new ideas, because I love solving problems through IT.
