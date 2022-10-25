@@ -1,6 +1,6 @@
 ### Hi there I'm Guillaume NEAU, GllmN 👋
 
-## After working more than 10 years in the HVAC industry, I switched to fullstack developer in 2020👨💻.
+# After working more than 10 years in the HVAC industry, I switched to fullstack developer in 2020👨💻.
 - I started by discovering the HTML, CSS, PHP and JS languages by making my first projects, 👉 my website : https://guillaumeneau.com/ 
 - 💻 I'm currently in Java backend developer (SpringBoot) with a project on web services.
 - 🧪: Knowledge of **Javascript/Typescript, SQL(MySQL), NoSQL(Firebase), Linux and others**.
