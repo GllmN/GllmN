@@ -7,3 +7,5 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 - 📚 And why not become a **fullstack NodeJs / Angular developer** on a project with microservices. 👀
 - 💪🏼 Future goals : Learn more technologies : **NodeJS, Express, Sequelize, Docker, Nginx, MongoDB**,... 
 - 💡 Never stop creating new ideas, because I love solving problems through IT.
+
+[![Nubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gllmn)](https://github.com/GllmNNuboctane/github-readme-stats)
