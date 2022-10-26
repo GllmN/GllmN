@@ -8,4 +8,10 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 - 💪🏼 Future goals : Learn more technologies : **NodeJS, Express, Sequelize, Docker, Nginx, MongoDB**,... 
 - 💡 Never stop creating new ideas, because I love solving problems through IT.
 
+<p align="center">
 [![Nubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gllmn)](https://github.com/GllmNNuboctane/github-readme-stats)
+</p>
+
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=gllmn&color=blue">
+</p>
