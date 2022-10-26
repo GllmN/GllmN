@@ -9,7 +9,7 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 - 💡 Never stop creating new ideas, because I love solving problems through IT.
 
 <p align="center">
-[![Nubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gllmn)](https://github.com/GllmNNuboctane/github-readme-stats)
+    <img id="preview" src="https://github-readme-stats.vercel.app/api?username=gllmn">
 </p>
 
 <p align="center">
