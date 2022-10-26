@@ -8,6 +8,8 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 - 💪🏼 Future goals : Learn more technologies : **NodeJS, Express, Sequelize, Docker, Nginx, MongoDB**,... 
 - 💡 Never stop creating new ideas, because I love solving problems through IT.
 
+## Stats :
+
 <p align="center">
     <img id="preview" src="https://github-readme-stats.vercel.app/api?username=gllmn">
 </p>
