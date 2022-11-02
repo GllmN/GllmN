@@ -1,4 +1,4 @@
-# Hi there, I'm Guillaume NEAU, GllmN 👋
+# Nice to meet you! 👋
 
 After working more than 10 years in the HVAC industry, I switched to fullstack developer in 2020👨💻.
 - I started by discovering the HTML, CSS, PHP and JS languages by making my first projects, 👉 my website : https://guillaumeneau.com/ 
