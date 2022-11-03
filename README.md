@@ -11,9 +11,9 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 ## Stats :
 
 <p align="center">
-    <img height="200px" id="preview" src="https://github-readme-stats.vercel.app/api?username=gllmn">
+    <img height="150px" id="preview" src="https://github-readme-stats.vercel.app/api?username=gllmn">
     <a href="https://github.com/gllmn">
-       <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gllmn&theme=light&include_all_commits=true&hide=html,css,cmake&count_private=true&layout=compact&langs_count=6&include_private=true&title=true">
+       <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gllmn&theme=light&include_all_commits=true&hide=html,css,cmake&count_private=true&layout=compact&langs_count=6&include_private=true&title=true">
     </a>
 </p>
 
