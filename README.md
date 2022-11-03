@@ -18,5 +18,5 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 </p>
 
 <p align="center">
-    <img width="15%"id="preview" src="https://komarev.com/ghpvc/?username=gllmn&color=blue&bg=white">
+    <img width="15%"id="preview" src="https://komarev.com/ghpvc/?username=gllmn&color=blue&bg=radical">
 </p>
