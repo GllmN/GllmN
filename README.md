@@ -13,7 +13,7 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
     <img height="175px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
-    <img max-height="175px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
+    <img height-max="175px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
     <img height="175px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"/>
     <img height="175px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
 </div>
