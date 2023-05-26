@@ -13,20 +13,23 @@ After working more than 10 years in the HVAC industry, I switched to fullstack d
 
 <p align="center">
     <img style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
+    &nbsp;&nbsp;&nbsp;
     <img style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"/>
+    &nbsp;&nbsp;&nbsp;
     <img style="width: 15%" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>
 </p>
 
 ## Stats :
 
 <p align="center">
-    <!-- <a href="https://github.com/gllmn">
+    <a href="https://github.com/gllmn">
        <img height="175px" id="preview" src="https://github-readme-stats.vercel.app/api?username=gllmn">
     </a>
     <a>
        <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gllmn&theme=light&include_all_commits=true&hide=html,css,twig,scss,cmake&count_private=true&layout=compact&langs_count=6&include_private=true&title=true">
-    </a> -->
+    </a>
 </p>
 
 <p align="center">
