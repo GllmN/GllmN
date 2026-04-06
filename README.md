@@ -47,11 +47,14 @@ Today, I work as a **Fullstack TypeScript Developer with a frontend focus on Ang
 
 ## 📊 Stats
 
-<p align="center">
-    <a href="https://github.com/gllmn">
-       <img height="175px" src="https://github-readme-stats.vercel.app/api?username=gllmn">
-    </a>
-    <a>
-       <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gllmn&layout=compact">
-    </a>
+<p align="center"> 
+    <a href="https://github.com/gllmn"> 
+        <img height="175px" id="preview" src="https://github-readme-stats.vercel.app/api?username=gllmn"> 
+    </a> 
+    <a> 
+        <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gllmn&theme=light&include_all_commits=true&hide=html,css,twig,scss,cmake&count_private=true&layout=compact&langs_count=6&include_private=true&title=true"> 
+    </a> 
+</p> 
+<p align="center"> 
+    <img width="15%"id="preview" src="https://komarev.com/ghpvc/?username=gllmn&color=blue&bg=white"> 
 </p>
